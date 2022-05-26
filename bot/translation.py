@@ -47,7 +47,7 @@ For More Details Click Help Button Below..
             
 @MOVIES_CLUB_GROUP_2
 """
- TELEGRAPH_TEXT = """
+TELEGRAPH_TEXT = """
 
 𝖧𝖾𝗅𝗉: <u><b>𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝖯𝖧</b></u>
 
