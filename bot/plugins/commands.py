@@ -35,10 +35,10 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📀Latest Dvd Updates📀', url="https://t.me/MOVIESCLUB_CLUB_DVD_UPDATES"
+                                    '📀 Latest Dvd Updates 📀', url="https://t.me/MOVIESCLUB_DVD_UPDATES"
                                 )
-                        ]
-                    ]
+                               (    '🎭  MAIN GROUP 🎭 ', url="https://t.me/MOVIES_CLUB_GROUP_2"
+                               )
                 )
             )
         except Exception as e:
@@ -47,7 +47,8 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developer👨‍🔬', url='https://t.me/crizzbizzyt'),
+        InlineKeyboardButton('Developer👨‍🔬', url='https://t.me/althaf_mr'),
+
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/MOVIESCLUBmy/Auto-Filter-Bot-V2')
     ],[
         InlineKeyboardButton('Support Group👥', url='https://t.me/MOVIES_CLUB_GROUP_2')
