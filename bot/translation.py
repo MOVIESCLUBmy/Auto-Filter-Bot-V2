@@ -64,7 +64,8 @@ TELEGRAPH_TEXT = """
 <b><u>𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 𝖺𝗇𝖽 𝖴𝗌𝖺𝗀𝖾:</b></u>
 
 • /tgmedia or /tgraph - 𝗎𝗉𝗅𝗈𝖺𝖽 𝗌𝗎𝗉𝗉𝗈𝗋𝗍𝖾𝖽 𝗆𝖾𝖽𝗂𝖺 (𝗐𝗂𝗍𝗁𝗂𝗇 5𝖬𝖡) 𝗍𝗈 𝗍𝖾𝗅𝖾𝗀𝗋𝖺𝗉𝗁.
-
+👇👇JOIN👇👇
+@MOVIES_CLUB_GROUP_2
 """
 FILTER_TEXT = """
 
@@ -74,7 +75,7 @@ FILTER_TEXT = """
 
 <u><b><u>𝖭𝖮𝖳𝖤:</b></u>
 
-• 𝖣𝗈𝗇𝖫𝖾𝖾 𝗌𝗁𝗈𝗎𝗅𝖽 𝗁𝖺𝗏𝖾 𝖺𝖽𝗆𝗂𝗇 𝗉𝗋𝗂𝗏𝗂𝗅𝗅𝖺𝗀𝖾.
+• BOT🤖 𝗌𝗁𝗈𝗎𝗅𝖽 𝗁𝖺𝗏𝖾 𝖺𝖽𝗆𝗂𝗇 𝗉𝗋𝗂𝗏𝗂𝗅𝗅𝖺𝗀𝖾.
 
 • 𝗈𝗇𝗅𝗒 𝖺𝖽𝗆𝗂𝗇𝗌 𝖼𝖺𝗇 𝖺𝖽𝖽 𝖿𝗂𝗅𝗍𝖾𝗋𝗌 𝗂𝗇 𝖺 𝖼𝗁𝖺𝗍.
 
@@ -82,14 +83,15 @@ FILTER_TEXT = """
 
 <b><u>𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 𝖺𝗇𝖽 𝖴𝗌𝖺𝗀𝖾:</u></b>
 
-• /addfilter - 𝖠𝖽𝖽 𝖿𝗂𝗅𝗍𝖾𝗋 𝖿𝗈𝗋 𝗇𝖺𝗆𝖾
+• /filter - 𝖠𝖽𝖽 𝖿𝗂𝗅𝗍𝖾𝗋 𝖿𝗈𝗋 𝗇𝖺𝗆𝖾
 
 • /filters - 𝖫𝗂𝗌𝗍 𝖺𝗅𝗅 𝖿𝗂𝗅𝗍𝖾𝗋𝗌 𝗂𝗇 𝖼𝗁𝖺𝗍
 
-• /delfilters - 𝖣𝖾𝗅𝖾𝗍𝖾 𝖿𝗂𝗅𝗍𝖾𝗋
+• /Stop - 𝖣𝖾𝗅𝖾𝗍𝖾 𝖿𝗂𝗅𝗍𝖾𝗋
 
 • /delallfilters - 𝖣𝖾𝗅𝖾𝗍𝖾 𝖾𝗇𝗍𝗂𝗋𝖾 𝖿𝗂𝗅𝗍𝖾𝗋𝗌 (𝖦𝗋𝗈𝗎𝗉 𝖮𝗐𝗇𝖾𝗋 𝖮𝗇𝗅𝗒!)
-
+👇👇JOIN👇👇
+@MOVIESCLUB_OTT_UPDATES
 """
 ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
 
